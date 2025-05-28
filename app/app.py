@@ -11,7 +11,7 @@ CORS(app)
 
 # Google Drive file links
 model_url = "https://drive.google.com/file/d/1yX7jbL70N8Bc28ZK5hrPNnVmnuuQW1SR/view?usp=sharing"
-scaler_url = "https://drive.google.com/uc?id=1Ky6u3zBPJaysOnSM8OIDOCxpNboDN_vx"  # Updated link for scaler.pkl
+scaler_url = "https://drive.google.com/file/d/1k1ky0HAw7C9xNzTTTbC1l-XVDsSts9hm/view?usp=sharing"  # Updated link for scaler.pkl
 
 # Paths for downloaded files
 model_path = "best_random_forest_model.pkl"
