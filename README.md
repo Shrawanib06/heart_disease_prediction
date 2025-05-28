@@ -10,7 +10,7 @@ A web-based application that predicts the likelihood of heart disease using mach
 - Pre-trained machine learning model (Random Forest & Ensemble)
 - Clean and responsive web interface
 - Data preprocessing and feature scaling
-- Deployment-ready (includes `wsgi.py` and `vercel.json`)
+- Deployment-ready (includes `vercel.json`)
 
 ---
 
