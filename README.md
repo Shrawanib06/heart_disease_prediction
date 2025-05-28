@@ -68,8 +68,6 @@ heart-disease-prediction/
 
 ├── vercel.json # Vercel deployment config
 
-├── wsgi.py # WSGI entry point
-
 ├── requirements.txt # Required Python packages
 
 └── README.md
@@ -128,8 +126,6 @@ python app/app.py
 This app is ready to deploy with:
 
 Vercel using vercel.json
-
-Gunicorn/Werkzeug using wsgi.py
 
 ## 📌 Credits
 Dataset: UCI Heart Disease Dataset
