@@ -10,7 +10,7 @@ app = Flask(__name__)
 CORS(app)
 
 # Google Drive file links
-model_url = "https://drive.google.com/uc?id=15X8Rc9-wVL0AU2qI9ZjxMXjlIW0kZPlu"
+model_url = "https://drive.google.com/file/d/1yX7jbL70N8Bc28ZK5hrPNnVmnuuQW1SR/view?usp=sharing"
 scaler_url = "https://drive.google.com/uc?id=1Ky6u3zBPJaysOnSM8OIDOCxpNboDN_vx"  # Updated link for scaler.pkl
 
 # Paths for downloaded files
