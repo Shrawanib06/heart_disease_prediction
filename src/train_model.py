@@ -120,8 +120,8 @@ plt.tight_layout()
 plt.show()
 
 # Step 13: Save models and scaler
-joblib.dump(best_rf_model, 'app/best_random_forest_model.pkl')
-joblib.dump(voting_clf, 'app/ensemble_model.pkl')
-joblib.dump(scaler, 'app/scaler.pkl')
+joblib.dump(best_rf_model, '../app/best_random_forest_model.pkl')
+joblib.dump(voting_clf, '../app/ensemble_model.pkl')
+joblib.dump(scaler, '../app/scaler.pkl')
 
 
