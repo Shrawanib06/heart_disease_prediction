@@ -11,7 +11,7 @@ import joblib
 import matplotlib.pyplot as plt
 
 # Step 1: Load your dataset
-df = pd.read_csv('notebooks/cleaned_heart_disease.csv')
+df = pd.read_csv('../notebooks/cleaned_heart_disease.csv')
 
 # Step 2: Drop irrelevant columns
 df = df.drop(['dataset_Hungary', 'dataset_Switzerland', 'dataset_VA Long Beach'], axis=1)
