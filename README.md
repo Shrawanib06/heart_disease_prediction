@@ -10,7 +10,6 @@ A web-based application that predicts the likelihood of heart disease using mach
 - Pre-trained machine learning model (Random Forest & Ensemble)
 - Clean and responsive web interface
 - Data preprocessing and feature scaling
-- Deployment-ready (includes `vercel.json`)
 
 ---
 
@@ -22,7 +21,6 @@ A web-based application that predicts the likelihood of heart disease using mach
 - Scikit-learn, Pandas, NumPy
 - Jupyter Notebook (for EDA)
 - Git & GitHub
-- Vercel (for deployment)
 
 ---
 
@@ -66,7 +64,6 @@ heart-disease-prediction/
 
 │
 
-├── vercel.json # Vercel deployment config
 
 ├── requirements.txt # Required Python packages
 
@@ -121,11 +118,6 @@ pip install -r requirements.txt
 
 python app/app.py
 
-## Deployment
-
-This app is ready to deploy with:
-
-Vercel using vercel.json
 
 ## 📌 Credits
 Dataset: UCI Heart Disease Dataset
